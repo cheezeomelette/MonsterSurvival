@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232a1a3544a7e2c40af062756021f47f, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: c9ef79ba59db38f40bd698e29162563d, type: 3}
+  weaponName: Rifle
+  description: "\uC5F0\uC0AC\uB825\uC774 \uBE60\uB978 \uC18C\uCD1D\uC774\uB2E4"
+  maxBulletCount: 30
+  price: 3
+  reloadRate: 1.5
+  fireRate: 0.1
+  bulletSpeed: 500
+  power: 10

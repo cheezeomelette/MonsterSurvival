@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232a1a3544a7e2c40af062756021f47f, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 395587f5b7a351b47bd38a7e3b5fe330, type: 3}
+  weaponName: Sniper
+  description: "\uAD00\uD1B5\uC774 \uAC00\uB2A5\uD55C \uC800\uACA9\uCD1D\uC774\uB2E4"
+  maxBulletCount: 5
+  price: 5
+  reloadRate: 3
+  fireRate: 2
+  bulletSpeed: 300
+  power: 100

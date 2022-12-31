@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232a1a3544a7e2c40af062756021f47f, type: 3}
+  m_Name: HandGun
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: be0bad5390709e8448cf566da354017a, type: 3}
+  weaponName: HandGun
+  description: "\uAE30\uBCF8\uAD8C\uCD1D"
+  maxBulletCount: 7
+  price: 0
+  reloadRate: 1
+  fireRate: 0.5
+  bulletSpeed: 500
+  power: 30
