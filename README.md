@@ -5,7 +5,7 @@
 ## 📈 클래스 다이어그램
 
 
-![MonsterServivalClass.drawio.png](MonsterSurvival%2014f995b8fc674386a52581e56acee1ce/MonsterServivalClass.drawio.png)
+![MonsterServivalClass.drawio.png](MonsterSurvivalReadme/MonsterSurvival 14f995b8fc674386a52581e56acee1ce/%EC%8A%A4%ED%8F%AC%EB%84%88_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.png)
 
 ## 💡주요 기능
 
