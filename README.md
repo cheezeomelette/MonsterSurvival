@@ -4,7 +4,6 @@
 
 ## 📈 클래스 다이어그램
 
-![%EC%8A%A4%ED%8F%AC%EB%84%88_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8](https://user-images.githubusercontent.com/81815193/211207735-c12d2b30-62ce-4084-a2d7-f08594550c4c.png)
 ![MonsterServivalClass drawio](https://user-images.githubusercontent.com/81815193/211210550-7f937b19-d26c-4e49-9907-57aa0fd4d28e.png)
 
 
